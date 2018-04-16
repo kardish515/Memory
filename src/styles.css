@@ -1,3 +1,17 @@
 body {
   background-color: #7FDBFF;
 }
+
+img{
+  object-fit: cover;
+  height: 100px;
+  width: 100px;
+}
+
+.hidden{
+  display: none;
+}
+
+.output{
+  display: none;
+}
